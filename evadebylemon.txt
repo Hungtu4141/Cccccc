@@ -765,7 +765,6 @@ end)
 
 local Section = DMTab:AddSection({
 	Name = "Tab"
-Ohter"
 })
 
 DMTab:AddToggle({
